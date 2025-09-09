@@ -204,11 +204,3 @@ npm install react-native@0.79.5
 สร้างโดย Panuwat Thammabut
 
 • GitHub: [@NuPanuwat47](https://github.com/NuPanuwat47)
-
-## License
-
-MIT License - ดูรายละเอียดเพิ่มเติมในไฟล์ [LICENSE](LICENSE)
-
----
-
-### 📱 สนุกกับการถ่ายรูป! 📸
